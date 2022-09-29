@@ -274,6 +274,14 @@ body {
   font-family: 'Noto Serif JP', serif;
 }
 
+.pancake_menu_list {
+  flex-direction: column;
+}
+
+.pancake_menu_item {
+  width: 100%;
+}
+
 /* ボタンコンポーネント */
 .btn {
   padding: 10px 20px;
